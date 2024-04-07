@@ -1,0 +1,45 @@
+Diseñar un sistema de asignación de posiciones de almacenamiento y la consecuente redistribución de la bodega según las necesidades de la empresa
+Desarrollar un sistema que integre distintos algoritmos de procesamiento de imágenes médicas que brinde información relevante para la toma de decisiones en los diagnósticos y tratamiento del SDRA
+Realizar una investigación de los algoritmos de procesamiento de imágenes médicas que existen actualmente
+Especificar los requerimientos técnicos y de usuario necesarios para la integración, interfaces, comunicación, y de priorización de los diferentes algoritmos
+Diseñar una arquitectura para un sistema de integración de los algoritmos de segmentación de imágenes médicas
+Desarrollar una interfaz que permita la integración de los diferentes algoritmos de procesamiento de imágenes
+Diseñar un sistema de información de apoyo a los procesos relacionados con el manejo de datos de niños en situación de abandono
+Identificar las oportunidades en las que la tecnología informática puede favorecer los procesos asociados al manejo y protección de datos de los niños de una fundación
+Diseñar un sistema de información que permita la integración de la información y el apoyo a los procesos relacionados con la gestión de los niños dentro de una fundación 
+Desarrollar una aplicación web donde los estudiantes puedan planear versiones tentativas de su horario académico
+Realizar un prototipo del sistema de inscripción de materias
+Identificar los requerimientos necesarios para el desarrollo de un software bibliotecario
+Realizar el diseño de los componentes del sistema
+Desarrollar un prototipo funcional para el sistema de venta de boletería y control de acceso
+Validar el diseño y el prototipo mediante una prueba piloto
+Especificar los requerimientos de la aplicación móvil Prive
+Realizar procesos de validación y pruebas unitarias, de integración y de aceptación
+Generar un modelo de minería de datos de emparejamiento entre el usuario y el conductor
+Desarrollar una aplicación orientada a la construcción de frases como apoyo al proceso lecto-escritor de los estudiantes de básica primaria
+Definir un modelo y un proceso de personalización que incluya estrategias pedagógicas y actividades lúdicas
+Diseñar e implementar una herramienta con base en el modelo o proceso de personalización
+Realizar pruebas a través de un prototipo funcional
+Desarrollar un software que permita procesar información de productos financieros y alimente un Cuadro de Mando Integral, que apoye el análisis de Management Solutions con base en la información proporcionada por sus clientes
+Realizar un proceso de levantamiento de requerimientos del producto, según las necesidades del cliente
+Diseñar y ejecutar pruebas sobre el sistema
+Desarrollar un portal web que permita la interacción entre usuario y sistema
+Construir un sistema de información que apoye la coordinación entre los actores del ecosistema de innovación y emprendimiento en la facultad de ingeniería 
+Hacer el levantamiento de requerimientos y establecer cuáles son los actores que intervienen en el sistema
+Proponer mecanismos y procesos subyacentes a través de los cuales se coordinan las actuaciones de los actores
+Diseñar el sistema de información, la arquitectura y el diseño detallado
+Implementar el sistema de información con los mecanismos y procesos identificados
+Probar la funcionalidad de los mecanismos y procesos implementados con actores reales del ecosistema
+Desarrollar una aplicación móvil que permita la práctica del diccionario básico de la lengua de señas colombiana, integrando técnicas de ludificación y el reconocimiento de gestos
+Definir la cobertura de léxico a utilizar con relación al diccionario básico de la lengua de señas colombiana
+Definir un algoritmo de procesamiento de imágenes que permita identificar de manera acertada los gestos realizados por el usuario
+Diseñar e implementar una aplicación móvil que integre la cobertura de léxico, la interfaz de usuario y el algoritmo de procesamiento de imágenes
+Construir un sistema de información que permita recopilar, estructurar, almacenar, analizar y compartir la información que apoye los procesos de autoevaluación con fines de acreditación para los programas académicos de pregrado de ingeniería de sistemas 
+Desarrollar un software que refuerce conocimientos de geometría elemental en niños que cursen primero de primaria
+Diseñar un software que integre el modelo de personalización diseñado
+Desarrollar una aplicación, orientada por un modelo de personalización y dirigido a niños de quinto grado de básica primaria, que apoye el proceso de aprendizaje de los números fraccionarios y sus operaciones básicas
+Desarrollar una aplicación que apoye el desarrollo del pensamiento lógico mediante aprendizaje de lógica proposicional en niños de 7 a 9 años
+Diseñar e implementar un componente web que presente los resultados mediante gráficas de manera clara y concisa
+Desarrollar un software que apoye el proceso de aprendizaje de la multiplicación para estudiantes de formación básica primaria
+Crear un modelo de personalización que se integre a las estrategias pedagógicas que implementen actividades lúdicas en el aprendizaje de la multiplicación
+Diseñar un software que implemente el modelo de personalización basado en sus características y conocimientos
